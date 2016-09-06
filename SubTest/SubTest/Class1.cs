@@ -10,7 +10,7 @@ namespace SubTest
   {
     public static string SecretString()
     {
-      return "Hello world!";
+      return "Hello world! Hejhå hejhå hejhå.";
     }
   }
 }
